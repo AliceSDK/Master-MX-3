@@ -644,6 +644,7 @@ body{
     }
 
     .settings__slider_img{
+        display: block;
         margin-top: 71px;
     }
 
